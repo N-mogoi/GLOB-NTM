@@ -2,7 +2,9 @@
 
 ## A Global Genomic Resource for Nontuberculous Mycobacteria
 
-**Status:** Research in development · **Approach:** Global, retrospective, in silico genomic epidemiology · **Data:** Publicly available genomes and associated metadata
+**Status:** Research in development 
+· **Approach:** Global, retrospective, in silico genomic epidemiology 
+· **Data:** Publicly available genomes and associated metadata
 
 **Research team:** Nicholas Nyabera and Emilyn Costa Conceição (Stellenbosch University, South Africa); Jody Emile Phelan (London School of Hygiene & Tropical Medicine, United Kingdom).
 
