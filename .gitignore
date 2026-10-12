@@ -1,0 +1,42 @@
+# Large genomics data and derived results
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.cram
+*.sam
+*.fasta
+*.fa
+*.fna
+*.fastq.zst
+*.sra
+*.vcf.gz
+*.bcf
+*.gff
+*.gff3
+*.gbk
+*.gbff
+*.nwk
+*.treefile
+*.snakemake/
+.nextflow/
+work/
+data/
+results/*
+!results/.gitkeep
+# Sensitive configuration
+.env
+.env.*
+!.env.example
+*credentials*
+*secret*
+*.pem
+*.key
+# Local files
+.DS_Store
+__pycache__/
+.pytest_cache/
+.Rhistory
+.Rproj.user/
+.venv/

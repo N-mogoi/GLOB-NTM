@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use GLOB-NTM, please cite this repository and any associated publications."
+title: "GLOB-NTM: A Global Genomic Resource for Nontuberculous Mycobacteria"
+type: software
+authors:
+  - family-names: Nyabera
+    given-names: Nicholas
+  - family-names: Conceição
+    given-names: Emilyn Costa
+  - family-names: Phelan
+    given-names: Jody Emile
